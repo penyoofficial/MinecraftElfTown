@@ -1,0 +1,1 @@
+java -Xms1024M -Xmx8192M -javaagent:authlib-injector-1.2.4.jar=https://littleskin.cn/api/yggdrasil -jar server.jar --nogui

@@ -1,0 +1,14 @@
+# Folders
+libraries
+logs
+versions
+world/*
+!world/generated
+
+# Temp files
+authlib-injector.log
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
